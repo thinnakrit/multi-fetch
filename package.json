@@ -1,0 +1,24 @@
+{
+  "name": "multi-fetch",
+  "version": "1.0.0",
+  "description": "Fetching data on 1 line",
+  "main": "script/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinnakrit/multi-fetch.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react",
+    "fetch"
+  ],
+  "author": "Thinnakrit Knoo-Aksorn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinnakrit/multi-fetch/issues"
+  },
+  "homepage": "https://github.com/thinnakrit/multi-fetch#readme"
+}
