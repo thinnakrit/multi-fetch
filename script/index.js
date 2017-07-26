@@ -40,5 +40,4 @@ exports.FETCHING = async (url, data, method, format) => {
 
     })
     return response;
-    
 }
